@@ -1358,7 +1358,7 @@ Add this to `package.json`, after *name* and *version*. This is necessary becaus
 
 
 # IBM Bluemix Cloud Platform
-**NOTE** *At this point it appears that Bluemix's free tier to host NodeJS apps is limited to 30 days.  If you are looking for a free tier service to host your app, Heroku might be a better choice at this point*
+**NOTE** *At this point it appears that Bluemix's free tier to host NodeJS apps is limited to 30 days.  If you are looking for a free tier service to host your app, Heroku might be a better choice at this point.*
 
 1. Create a Bluemix Account
 
